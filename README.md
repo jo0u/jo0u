@@ -1,7 +1,7 @@
- <h3> Olá! Sou Jou Oliveira</h3>
+ <h3> Hello, World! Sou Jou Oliveira</h3>
  <hr>
 
-![mario](https://user-images.githubusercontent.com/69989169/140865676-d2da75e4-4c1a-408c-b14e-5b67414879fa.gif)
+![Artisan](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
 🧠 Estagiário de Suporte Técnico / Desenvolvedor Back End PHP <br>
 ✍️ Estudando Back-End :  PHP / Python <br>
