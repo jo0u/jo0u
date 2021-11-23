@@ -37,6 +37,4 @@
   <a href = "https://www.instagram.com/jou.alexandre/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank"></a>
  </div>
 
-<hr>
 
-![Snake animation](https://github.com/jo0u/jo0u/blob/output/github-contribution-grid-snake.svg)
