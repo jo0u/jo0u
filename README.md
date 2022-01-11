@@ -1,7 +1,7 @@
  <h3> Hello, World! Sou Jou Oliveira;</h3>
  <hr>
 
-![Artisan](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmario-pixel-art-gaming-room-gif-23722022&psig=AOvVaw2rt4WJgwaNWzsKOKdt08hc&ust=1641994107277000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCOw_DmqfUCFQAAAAAdAAAAABAD)
+![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
 
 🧠 Estagiário de Suporte Técnico / Desenvolvedor Back End PHP; <br>
 ✍️ Estudando Back-End :  PHP / Python; <br>
