@@ -5,7 +5,7 @@
 
 🧠 Estagiário de Suporte Técnico / Desenvolvedor Back End PHP; <br>
 ✍️ Estudando Back-End :  PHP / VUE JS; <br>
-✍️ Estudando Front-End : Bootstrap / Materilaze / JavaScript / HTML / Css; <br>
+✍️ Estudando Front-End : Bootstrap / Materilaze / JavaScript / HTML / Css / VUE JS; <br>
 🌏 Futuro Desenvolvedor : Full Stack PHP / Bootstrap / Mysql; <br>
   <hr>
   <h3> Programming Language; <h3>
