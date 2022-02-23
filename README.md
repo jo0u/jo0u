@@ -4,7 +4,7 @@
 ![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
 
 🧠 Estagiário de Suporte Técnico / Desenvolvedor Back End PHP; <br>
-✍️ Estudando Back-End :  PHP / Python; <br>
+✍️ Estudando Back-End :  PHP / VUE JS; <br>
 ✍️ Estudando Front-End : Bootstrap / Materilaze / JavaScript / HTML / Css; <br>
 🌏 Futuro Desenvolvedor : Full Stack PHP / Bootstrap / Mysql; <br>
   <hr>
