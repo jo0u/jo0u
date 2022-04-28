@@ -1,12 +1,13 @@
  <h3> Hello, World! Sou Jou Oliveira;</h3>
  <hr>
+ 
 
 ![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
 
 🧠 Estagiário de Suporte Técnico / Desenvolvedor Back End PHP; <br>
 ✍️ Estudando Back-End :  PHP / Laravel ; <br>
 ✍️ Estudando Front-End : Bootstrap / Materilaze / JavaScript / HTML / Css / VUE JS; <br>
-📱  Estudando Mobile : React Native
+📱  Estudando Mobile : React Native <br>
 🌏 Futuro Desenvolvedor : Full Stack PHP / Bootstrap / Mysql; <br>
   <hr>
   <h3> Programming Language; <h3>
