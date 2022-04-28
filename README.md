@@ -1,6 +1,12 @@
  <h3> Hello, World! Sou Jou Oliveira;</h3>
  <hr>
- 
+ <div>
+ <h3> Social Networks;</h3>
+ <a href = "https://twitter.com/X4ndex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target = "_blank"></a>
+  <a href = "https://br.linkedin.com/in/joualexandre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
+  <a href = "https://www.instagram.com/jou.alexandre/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank"></a>
+ </div>
+ <hr>
 
 ![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
 
@@ -33,11 +39,7 @@
 
  
  <hr>
- <div>
- <h3> Social Networks;</h3>
- <a href = "https://twitter.com/X4ndex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target = "_blank"></a>
-  <a href = "https://br.linkedin.com/in/joualexandre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
-  <a href = "https://www.instagram.com/jou.alexandre/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank"></a>
- </div>
+ 
+ 
 
 
