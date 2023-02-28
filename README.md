@@ -15,7 +15,7 @@
 💻 Front-End : Bootstrap / Materilaze / JavaScript / HTML / CSS / Tailwind.css; <br>
 💾 Banco de dados: My SQL / SQL Server / Oracle; <br>
 ✍️ Estudando Back-End :  PHP / Laravel / Node.js ; <br>
-✍️ Estudando Front-End :  JavaScript  / VUE JS; / <br>
+✍️ Estudando Front-End :  JavaScript  / VUE JS;  <br>
 🌏 Futuro Desenvolvedor : Aprender Node.js ; <br>
   <hr>
   <h3> Programming Language; <h3>
