@@ -10,12 +10,12 @@
 
 ![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
 
-🧠 Analista de Sistema / Desenvolvedor Full Stack HTML/CSS /PHP; <br>
-🧰 Stack Back-End :  PHP / Laravel ; <br>
-💻 Stack Front-End : Bootstrap / Materilaze / JavaScript / HTML / CSS / Tailwind.css; <br>
+🧠 Analista de Sistema / Desenvolvedor Full Stack HTML/ CSS / PHP; <br>
+🧰 Back-End :  PHP / Laravel ; <br>
+💻 Front-End : Bootstrap / Materilaze / JavaScript / HTML / CSS / Tailwind.css; <br>
+💾 Banco de dados: My SQL / SQL Server / Oracle
 ✍️ Estudando Back-End :  PHP / Laravel / Node.js ; <br>
 ✍️ Estudando Front-End :  JavaScript  / VUE JS; / <br>
-📱  Estudando Mobile : React Native <br>
 🌏 Futuro Desenvolvedor : Aprender Node.js ; <br>
   <hr>
   <h3> Programming Language; <h3>
