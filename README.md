@@ -13,7 +13,7 @@
 🧠 Analista de Sistema / Desenvolvedor Full Stack HTML/ CSS / PHP; <br>
 🧰 Back-End :  PHP / Laravel ; <br>
 💻 Front-End : Bootstrap / Materilaze / JavaScript / HTML / CSS / Tailwind.css; <br>
-💾 Banco de dados: My SQL / SQL Server / Oracle
+💾 Banco de dados: My SQL / SQL Server / Oracle; <br>
 ✍️ Estudando Back-End :  PHP / Laravel / Node.js ; <br>
 ✍️ Estudando Front-End :  JavaScript  / VUE JS; / <br>
 🌏 Futuro Desenvolvedor : Aprender Node.js ; <br>
