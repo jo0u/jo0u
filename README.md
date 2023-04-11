@@ -8,7 +8,11 @@
  </div>
  <hr>
 
-![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
+
+
+
+
+<!--![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)-->
 
 🧠 Analista de Sistema / Desenvolvedor Full Stack HTML/ CSS / PHP; <br>
 🧰 Back-End :  PHP / Laravel ; <br>
