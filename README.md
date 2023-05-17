@@ -11,6 +11,7 @@
 
 
 
+![zeldis](https://github.com/jo0u/jo0u/assets/69989169/f679fe92-eefa-4936-ba85-8600fd08fce2)
 
 <!--![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)-->
 
