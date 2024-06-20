@@ -1,4 +1,4 @@
-<h3>Hello, World! Sou Jou Oliveira;</h3>
+<h3>Hello, World! Jou Oliveira;</h3>
 <hr>
 
 <h3>Social Networks;</h3>
