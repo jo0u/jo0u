@@ -1,4 +1,4 @@
-<h3>Hello, World! Jou Oliveira;</h3>
+<h3>Echo('World! Jou Oliveira')</h3>
 <hr>
 
 <h3>Social Networks;</h3>
@@ -14,27 +14,23 @@
 
 ![zeldis](https://github.com/jo0u/jo0u/assets/69989169/f679fe92-eefa-4936-ba85-8600fd08fce2)
 
-🧠 Analista de Sistema / Desenvolvedor Full Stack HTML/ CSS / PHP; <br>
+🧠 Analista de Sistema / Desenvolvedor Full Stack HTML/ CSS / JS / PHP/LARAVEL; <br>
 🧰 Back-End : PHP / Laravel ; <br>
-💻 Front-End : Bootstrap / Materilaze / JavaScript / HTML / CSS / Tailwind.css; <br>
+💻 Front-End : JavaScript / HTML / CSS / Tailwind.css; <br>
 💾 Banco de dados: My SQL / SQL Server / Oracle; <br>
-✍️ Estudando Back-End : PHP / Laravel / Node.js ; <br>
-✍️ Estudando Front-End : JavaScript  / VUE JS;  <br>
+✍️ Estudando: PHP / Laravel / Power Shell / ASP.NET ; <br>
+
 
 <hr>
 
 <h3>Programming Language;</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jou-HTML" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Jou-Css" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Jou-Js" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jou-Bootstrap" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Jou-Python" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Jou-PHP" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Jou-Python" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Jou-Java" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Jou-Mysql" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Jou-Postgresql" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Jou-Node-JS" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Jou-SQLServer" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 <hr>
