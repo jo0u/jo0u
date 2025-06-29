@@ -29,7 +29,7 @@
 ```javascript
 const joualexandre = {
     role: "Analista de Sistemas & Full Stack Developer",
-    code: ["JavaScript", "PHP", "Python", "Java"],
+    code: ["JavaScript", "PHP", "Python", "C#"],
     technologies: {
         backend: ["PHP", "Laravel", "ASP.NET"],
         frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
@@ -86,15 +86,6 @@ const joualexandre = {
 
 ---
 
-## 🏆 **Troféus GitHub**
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=jo0u&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 **Atividade de Contribuição**
 
@@ -109,7 +100,7 @@ const joualexandre = {
 ## 💡 **Curiosidades**
 
 - 🔭 Atualmente trabalhando em projetos com **Laravel** e **JavaScript**
-- 🌱 Estudando **ASP.NET Core** e **PowerShell**
+- 🌱 Estudando **ASP.NET Core** e **.NET**
 - 👯 Aberto para colaborações em projetos open source
 - 💬 Pergunte-me sobre **PHP**, **Laravel**, **JavaScript**
 - ⚡ Fato curioso: Adoro resolver problemas complexos com soluções simples!
